@@ -1,4 +1,4 @@
-#Add this to ~/.bash_profile or ~/.bashrc, according to your paths. lmao 
+#Add this to ~/.bash_profile or ~/.bashrc, according to your paths. 
 
 export BASH_SILENCE_DEPRECATION_WARNING=1
 
