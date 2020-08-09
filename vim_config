@@ -8,4 +8,7 @@ set hlsearch
 set ruler
 set mouse=a
 set paste
+set autoindent
+set softtabstop=2
+set clipboard=unnamedplus 
 highlight Comment ctermfg=green
